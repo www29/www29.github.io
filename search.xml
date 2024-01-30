@@ -324,19 +324,6 @@
       </tags>
   </entry>
   <entry>
-    <title>z-blog修改文章歸檔的英文月份為中文</title>
-    <url>/post/1158.html</url>
-    <content><![CDATA[<p>        z-blog的文章歸檔日期，月份使用英文，對於英文基礎不好的網友來說，看不懂。希望能變成中文的。<br>        其實，改動很容易做到：<br>        在後台找到文件管理，在language&#x2F;SimpChinese.asp中找到：<br>Dim ZVA_Month(12)<br>ZVA_Month(1) &#x3D;”January”‘“一月”<br>ZVA_Month(2) &#x3D;”February”‘“二月”<br>ZVA_Month(3) &#x3D;”March”‘“三月”<br>ZVA_Month(4) &#x3D;”April”‘“四月”<br>ZVA_Month(5) &#x3D;”May”‘“五月”<br>ZVA_Month(6) &#x3D;”June”‘“六月”<br>ZVA_Month(7) &#x3D;”July”‘“七月”<br>ZVA_Month(8) &#x3D;”August”‘“八月”<br>ZVA_Month(9) &#x3D;”September”‘“九月”<br>ZVA_Month(10)&#x3D;”October”‘“十月”<br>ZVA_Month(11)&#x3D;”November”‘“十一月”<br>ZVA_Month(12)&#x3D;”December”‘“十二月”<br>          然後把上邊的代碼用以下代碼替換：<br>Dim ZVA_Month(12)<br>ZVA_Month(1) &#x3D;”一月”‘“January”<br>ZVA_Month(2) &#x3D;”二月”‘“February”<br>ZVA_Month(3) &#x3D;”三月”‘“March”<br>ZVA_Month(4) &#x3D;”四月”‘“April”<br>ZVA_Month(5) &#x3D;”五月”‘“May”<br>ZVA_Month(6) &#x3D;”六月”‘“June”<br>ZVA_Month(7) &#x3D;”七月”‘“July”<br>ZVA_Month(8) &#x3D;”八月”‘“August”<br>ZVA_Month(9) &#x3D;”九月”‘“September”<br>ZVA_Month(10)&#x3D;”十月”‘“October”<br>ZVA_Month(11)&#x3D;”十一月”‘“November”<br>ZVA_Month(12)&#x3D;”十二月”‘“December”<br>          明眼人立即就可以看出來，代碼其實是將英文月份和中文月份的位置交換了一下。<br>          然後文件重建，有使用靜態首頁的朋友，再使用索引重建，就成了。具體的變化可以參看<a href="http://www.35888.net/">守望博客</a>的首頁。</p>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>網站程序</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【轉】娘子被高衙內霸佔後，林沖答記者問</title>
     <url>/post/1121.html</url>
     <content><![CDATA[<p>     東京八十萬禁軍教頭林沖，不但武藝高強，事業有成，而且家有美妻，貌若天仙，令世人羨慕不已。當時的未婚男子，都夢想著將來能娶一個林娘子那樣的美女為妻。已婚的男人，都抱怨自己沒有林沖的福分。<br>     但林娘子就是因為太美麗動人，所以招來了禍端。  </p>
@@ -348,6 +335,19 @@
       <tags>
         <tag>轉文</tag>
         <tag>轉載</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>z-blog修改文章歸檔的英文月份為中文</title>
+    <url>/post/1158.html</url>
+    <content><![CDATA[<p>        z-blog的文章歸檔日期，月份使用英文，對於英文基礎不好的網友來說，看不懂。希望能變成中文的。<br>        其實，改動很容易做到：<br>        在後台找到文件管理，在language&#x2F;SimpChinese.asp中找到：<br>Dim ZVA_Month(12)<br>ZVA_Month(1) &#x3D;”January”‘“一月”<br>ZVA_Month(2) &#x3D;”February”‘“二月”<br>ZVA_Month(3) &#x3D;”March”‘“三月”<br>ZVA_Month(4) &#x3D;”April”‘“四月”<br>ZVA_Month(5) &#x3D;”May”‘“五月”<br>ZVA_Month(6) &#x3D;”June”‘“六月”<br>ZVA_Month(7) &#x3D;”July”‘“七月”<br>ZVA_Month(8) &#x3D;”August”‘“八月”<br>ZVA_Month(9) &#x3D;”September”‘“九月”<br>ZVA_Month(10)&#x3D;”October”‘“十月”<br>ZVA_Month(11)&#x3D;”November”‘“十一月”<br>ZVA_Month(12)&#x3D;”December”‘“十二月”<br>          然後把上邊的代碼用以下代碼替換：<br>Dim ZVA_Month(12)<br>ZVA_Month(1) &#x3D;”一月”‘“January”<br>ZVA_Month(2) &#x3D;”二月”‘“February”<br>ZVA_Month(3) &#x3D;”三月”‘“March”<br>ZVA_Month(4) &#x3D;”四月”‘“April”<br>ZVA_Month(5) &#x3D;”五月”‘“May”<br>ZVA_Month(6) &#x3D;”六月”‘“June”<br>ZVA_Month(7) &#x3D;”七月”‘“July”<br>ZVA_Month(8) &#x3D;”八月”‘“August”<br>ZVA_Month(9) &#x3D;”九月”‘“September”<br>ZVA_Month(10)&#x3D;”十月”‘“October”<br>ZVA_Month(11)&#x3D;”十一月”‘“November”<br>ZVA_Month(12)&#x3D;”十二月”‘“December”<br>          明眼人立即就可以看出來，代碼其實是將英文月份和中文月份的位置交換了一下。<br>          然後文件重建，有使用靜態首頁的朋友，再使用索引重建，就成了。具體的變化可以參看<a href="http://www.35888.net/">守望博客</a>的首頁。</p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>網站程序</tag>
       </tags>
   </entry>
   <entry>
@@ -416,19 +416,6 @@
       </tags>
   </entry>
   <entry>
-    <title>一枚韭菜</title>
-    <url>/post/1012.html</url>
-    <content><![CDATA[<p>今年奇了怪了，一買就跌，一賣就漲。和眾多散戶的命運一樣，為國家做了不少貢獻。</p>
-]]></content>
-      <categories>
-        <category>日誌</category>
-      </categories>
-      <tags>
-        <tag>日記</tag>
-        <tag>財經</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>三類養生茶不宜常喝</title>
     <url>/post/1053.html</url>
     <content><![CDATA[<p>       近年來人們對健康日益關注，養生保健茶逐漸走進百姓生活。如果上火了，咽干嗓子痛，有些人知道馬上泡點菊花、金銀花茶，喝下去苦中有甘，可以有效緩解症狀。然而，要讓養生茶真正起到養生作用，還是要根據具體症狀和體質特點來調配，<br>不宜長年不變地飲用一種茶。下面幾類養生茶不宜常喝。  </p>
@@ -442,6 +429,19 @@
       <tags>
         <tag>日誌</tag>
         <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一枚韭菜</title>
+    <url>/post/1012.html</url>
+    <content><![CDATA[<p>今年奇了怪了，一買就跌，一賣就漲。和眾多散戶的命運一樣，為國家做了不少貢獻。</p>
+]]></content>
+      <categories>
+        <category>日誌</category>
+      </categories>
+      <tags>
+        <tag>日記</tag>
+        <tag>財經</tag>
       </tags>
   </entry>
   <entry>
@@ -505,6 +505,26 @@
       </tags>
   </entry>
   <entry>
+    <title>中國福利彩票雙色球第2011135期中獎疑問</title>
+    <url>/post/1122.html</url>
+    <content><![CDATA[<p>     買這張彩票的牛人共花了16016元，買的是中國福利彩票雙色球第2011135期，採用的是16+1複式玩法。中獎號碼為：紅球12 13 17 20 25 26；藍球12。這位牛人共中得：1注一等獎、4注二等獎、60注三等獎、915注四等獎、5100注五等獎、4872注六等獎，累計獎金達13783846元。<br>     牛人出資購彩的大手筆讓在下望塵莫及，而且運氣也是極好，命中藍號12，更加巧妙地是，好像就知道紅號要從11開始到26結束。  </p>
+<p><img src="http://ww3.sinaimg.cn/mw600/437fdadejw1dne1wpm3s1j.jpg"><br>     <a href="http://ww3.sinaimg.cn/large/437fdadejw1dne1wpm3s1j.jpg">查看大圖</a><br>     ​但是紙裡包不住火，確實讓我發現了這張彩票的諸多端倪，譬如：這張彩票是樂和彩（<a href="http://www.lehecai.com/">www.lehecai.com</a>）上一位tria****的會員​中出的，既然是一張以電子信息投注的彩票，這張彩票實體圖樣是哪裡來的？而且最下面還是某某福利彩票發行中心承銷，樂和彩是福利彩票發行中心嗎？那麼這張彩票出自哪個省的福彩發行中心呢？請看中國福利彩票雙色球2011135期開獎傳真  </p>
+<p><strong>​</strong><img src="http://ww4.sinaimg.cn/mw600/437fdadejw1dne31tixanj.jpg">  </p>
+<p><a href="http://ww4.sinaimg.cn/large/437fdadejw1dne31tixanj.jpg">查看大圖</a>  </p>
+<p>      再看，中國雙色球第2011135期一等獎出處：  </p>
+<p><img src="http://ww2.sinaimg.cn/mw600/437fdadejw1dne372ws6qj.jpg">  </p>
+<p><a href="http://ww2.sinaimg.cn/large/437fdadejw1dne372ws6qj.jpg">查看大圖</a></p>
+<p>        這張圖片明確告訴你：這張複式16+1彩票是湖南省岳陽市湘陰縣精密花園第43102025號投注站中出的。<br>     請問：樂和彩，你們是和福彩中心合作的，還是和一個小投注站合作的，莫非這張彩票從你們網站會員處中得，網站是這家投注小站建立的嗎？我搞不懂。<br>     樂和彩網站這種掩耳盜鈴，自欺欺人的做法，著實讓我感到厭惡，而且樂和彩是百度合作平台，讓人對百度也難免產生懷疑。<br>     再次申明，以上只是本人的一點拙見，疑問之處或許本人水平有限，胡亂猜疑而已，不能作為本人對樂和彩網站以及網絡購彩所持觀點和看法。  同時也謝絕對文章內容的真實性和可靠性作答覆，僅作為談資罷了。<br>     現在很多網站都開展了網絡銷售彩票的業務，甚至門戶網站也在分這杯羹。但是，一旦中大獎，能否能拿到獎金，這任然是一個需要深思的問題。對於那些不知名的小網站，中大獎不一定會返獎；而對於那些大網站甚至門戶網站而言，中獎一般都可以返獎，因為畢竟對於網站購彩的數以萬計的用戶而言，中獎者畢竟是少數，偶爾中個大獎也會配牌出血。<br>     老李溫馨提示：網絡購彩需謹慎。如果實在不便要網絡購彩，還是首選門戶網站。</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>轉文</tag>
+        <tag>轉載</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>中國人喝茶的禮儀與講究</title>
     <url>/post/1095.html</url>
     <content><![CDATA[<p>       中國人好以茶會客，看似簡單的一杯茶其中暗含了許多學問，除了泡茶講究，斟茶、品茶、添茶都有講究。你不可不知道的閩南茶語，分享給大家，學學茶禮儀，用最純正的傳統對待一杯茶。  </p>
@@ -525,26 +545,6 @@
       <tags>
         <tag>日記</tag>
         <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>中國福利彩票雙色球第2011135期中獎疑問</title>
-    <url>/post/1122.html</url>
-    <content><![CDATA[<p>     買這張彩票的牛人共花了16016元，買的是中國福利彩票雙色球第2011135期，採用的是16+1複式玩法。中獎號碼為：紅球12 13 17 20 25 26；藍球12。這位牛人共中得：1注一等獎、4注二等獎、60注三等獎、915注四等獎、5100注五等獎、4872注六等獎，累計獎金達13783846元。<br>     牛人出資購彩的大手筆讓在下望塵莫及，而且運氣也是極好，命中藍號12，更加巧妙地是，好像就知道紅號要從11開始到26結束。  </p>
-<p><img src="http://ww3.sinaimg.cn/mw600/437fdadejw1dne1wpm3s1j.jpg"><br>     <a href="http://ww3.sinaimg.cn/large/437fdadejw1dne1wpm3s1j.jpg">查看大圖</a><br>     ​但是紙裡包不住火，確實讓我發現了這張彩票的諸多端倪，譬如：這張彩票是樂和彩（<a href="http://www.lehecai.com/">www.lehecai.com</a>）上一位tria****的會員​中出的，既然是一張以電子信息投注的彩票，這張彩票實體圖樣是哪裡來的？而且最下面還是某某福利彩票發行中心承銷，樂和彩是福利彩票發行中心嗎？那麼這張彩票出自哪個省的福彩發行中心呢？請看中國福利彩票雙色球2011135期開獎傳真  </p>
-<p><strong>​</strong><img src="http://ww4.sinaimg.cn/mw600/437fdadejw1dne31tixanj.jpg">  </p>
-<p><a href="http://ww4.sinaimg.cn/large/437fdadejw1dne31tixanj.jpg">查看大圖</a>  </p>
-<p>      再看，中國雙色球第2011135期一等獎出處：  </p>
-<p><img src="http://ww2.sinaimg.cn/mw600/437fdadejw1dne372ws6qj.jpg">  </p>
-<p><a href="http://ww2.sinaimg.cn/large/437fdadejw1dne372ws6qj.jpg">查看大圖</a></p>
-<p>        這張圖片明確告訴你：這張複式16+1彩票是湖南省岳陽市湘陰縣精密花園第43102025號投注站中出的。<br>     請問：樂和彩，你們是和福彩中心合作的，還是和一個小投注站合作的，莫非這張彩票從你們網站會員處中得，網站是這家投注小站建立的嗎？我搞不懂。<br>     樂和彩網站這種掩耳盜鈴，自欺欺人的做法，著實讓我感到厭惡，而且樂和彩是百度合作平台，讓人對百度也難免產生懷疑。<br>     再次申明，以上只是本人的一點拙見，疑問之處或許本人水平有限，胡亂猜疑而已，不能作為本人對樂和彩網站以及網絡購彩所持觀點和看法。  同時也謝絕對文章內容的真實性和可靠性作答覆，僅作為談資罷了。<br>     現在很多網站都開展了網絡銷售彩票的業務，甚至門戶網站也在分這杯羹。但是，一旦中大獎，能否能拿到獎金，這任然是一個需要深思的問題。對於那些不知名的小網站，中大獎不一定會返獎；而對於那些大網站甚至門戶網站而言，中獎一般都可以返獎，因為畢竟對於網站購彩的數以萬計的用戶而言，中獎者畢竟是少數，偶爾中個大獎也會配牌出血。<br>     老李溫馨提示：網絡購彩需謹慎。如果實在不便要網絡購彩，還是首選門戶網站。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>轉文</tag>
-        <tag>轉載</tag>
       </tags>
   </entry>
   <entry>
@@ -1065,7 +1065,7 @@
   <entry>
     <title>出售域名：blogpost.cn和wolrd.cn</title>
     <url>/post/1051.html</url>
-    <content><![CDATA[<p>域名：blogpost.cn和wolrd.cn出手了 blogpost.cn域名含義：blog為博客，post為文章或帖子。blog post為「博客文章」 wolrd.cn域名含義：world是世界的意思，拼寫常常誤寫為wolrd，可以帶來巨大訪問量 聯繫請發郵件到：<a href="mailto:&#119;&#105;&#115;&#100;&#111;&#109;&#116;&#x69;&#x67;&#101;&#x72;&#64;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#109;">&#119;&#105;&#115;&#100;&#111;&#109;&#116;&#x69;&#x67;&#101;&#x72;&#64;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#109;</a></p>
+    <content><![CDATA[<p>域名：blogpost.cn和wolrd.cn出手了 blogpost.cn域名含義：blog為博客，post為文章或帖子。blog post為「博客文章」 wolrd.cn域名含義：world是世界的意思，拼寫常常誤寫為wolrd，可以帶來巨大訪問量 聯繫請發郵件到：<a href="mailto:&#119;&#x69;&#x73;&#100;&#111;&#109;&#116;&#105;&#103;&#x65;&#114;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;">&#119;&#x69;&#x73;&#100;&#111;&#109;&#116;&#105;&#103;&#x65;&#114;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
 ]]></content>
       <categories>
         <category>域名</category>
@@ -1372,19 +1372,6 @@
       </tags>
   </entry>
   <entry>
-    <title>在易名中國註冊了n89.cn</title>
-    <url>/post/1140.html</url>
-    <content><![CDATA[<p>        5月17日在易名中國註冊了n89.cn，說是審核要5-7天，今天都第六天了，還未收到審核通知。<br>        n89.cn這個域名從去年12月關注了，當時的狀態時域名禁注。5月17日剛好WHOIS的時候，發現竟然可以註冊了，於是搶先註冊。<br>        還麼有審核完成，所以目前該域名未做任何解析，停放在易名中國。<br>        這個域名還捨不得賣，因為我關注很久了，而且得來是在不經意間。<br>        將來可以考慮用這個域名掛個站，好好經營一番。<br>        目前還正在考慮該域名恰當的寓意，想了很多，都覺得不太滿意。</p>
-]]></content>
-      <categories>
-        <category>域名</category>
-      </categories>
-      <tags>
-        <tag>域名</tag>
-        <tag>易名中國</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>域名出售</title>
     <url>/post/996.html</url>
     <content><![CDATA[<p>出售域名:  </p>
@@ -1404,6 +1391,19 @@
       <tags>
         <tag>域名</tag>
         <tag>交易</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在易名中國註冊了n89.cn</title>
+    <url>/post/1140.html</url>
+    <content><![CDATA[<p>        5月17日在易名中國註冊了n89.cn，說是審核要5-7天，今天都第六天了，還未收到審核通知。<br>        n89.cn這個域名從去年12月關注了，當時的狀態時域名禁注。5月17日剛好WHOIS的時候，發現竟然可以註冊了，於是搶先註冊。<br>        還麼有審核完成，所以目前該域名未做任何解析，停放在易名中國。<br>        這個域名還捨不得賣，因為我關注很久了，而且得來是在不經意間。<br>        將來可以考慮用這個域名掛個站，好好經營一番。<br>        目前還正在考慮該域名恰當的寓意，想了很多，都覺得不太滿意。</p>
+]]></content>
+      <categories>
+        <category>域名</category>
+      </categories>
+      <tags>
+        <tag>域名</tag>
+        <tag>易名中國</tag>
       </tags>
   </entry>
   <entry>
@@ -1521,6 +1521,19 @@
       </tags>
   </entry>
   <entry>
+    <title>好雨</title>
+    <url>/post/1039.html</url>
+    <content><![CDATA[<p>下來快一天了，很涼爽。</p>
+]]></content>
+      <categories>
+        <category>日誌</category>
+      </categories>
+      <tags>
+        <tag>日誌</tag>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>女兒二三事</title>
     <url>/post/1165.html</url>
     <content><![CDATA[<p>        最近特別想念這個小丫頭。今年不在身邊煩我，還真覺得落下了許多。<br>        丫頭一周都沒有上學了，感冒咳嗽，沒少折騰一家人，今天好多了，心也放下了。<br>        我要返回單位，讓丫頭給我道別，誰知丫頭稚聲稚語讓我不禁笑了一路，「爸，給我好好掙錢，別到處亂跑」「回來給我買許多糖」。<br>        丫頭愛吃糖，尤其是口香糖。那天回去買了一大盒，不到一天都被丫頭吃光了。<br>        丫頭可真謂鬼精鬼靈的，有時候讓我應接不暇。「扯面會從肚子裡跑出來嗎？」「把我從廁所衝下去淹死咋辦？」。捉螞蟻手指被咬了，說是讓蚊子咬的；牆上爬了一隻壁虎，說是蠍子；燕子飛過去了，說是蟲蟲……<br>        丫頭最不愛吃的就是青菜，因為嚼不爛，每每吃青菜都要放到別人碗裡。愛吃肉，雞蛋和豆腐來之不拒。<br>        丫頭的飯量還不挺不錯的，幼兒園的阿姨說你家女兒的飯量不錯。但是每天下午被送回來，就要大吃一頓，不給吃，就不依不饒。我想學校管飯，還能還能把你餓成這樣子。原來在幼兒園吃飯，一碗吃完不夠要舉手要，但是丫頭不敢。<br>        丫頭人小脾氣還挺倔，這點像我。一件事不順心，就使性子。明明想吃什麼，你摸著心思遞上去，就是不吃，好奈哄一番，才肯作罷。加上我爸我媽慣著，根本不把我和她媽放在眼裡。<br>        丫頭愛顯擺。經常使用她媽的發卡，唇膏，手鏈等，還愛戴花，跑遍家裡每個人前面炫耀一番不算，還要到鄰居家表現一番。女孩兒家愛美的天性。她媽也由著她折騰。有個什麼好吃的，非要到同伴前面攀比一番，爭個高下。<br>        丫頭愛寫字。經常是畫圈，尤其愛在作文本塗鴉，每格裡面一個圈，一個不落，正反都要畫滿；從一數到十沒問題，但是就是不識數字。<br>        丫頭還愛照相。最愛擺的一個pose就是右手成V字形，左手拿個東西。愛做鬼臉，尤其在照相的時候。<br>        金黃的油菜花又被丫頭採了滿滿一把，頭上的，兜裡的，手裡的，瘋的忘乎所以。<br>        提到丫頭，總有說不完的話。今天不見，想得不行。看來週末又得回去讓她煩煩，我一周心才不會空落。</p>
@@ -1534,16 +1547,27 @@
       </tags>
   </entry>
   <entry>
-    <title>好雨</title>
-    <url>/post/1039.html</url>
-    <content><![CDATA[<p>下來快一天了，很涼爽。</p>
+    <title>嵗虎辭舊，玉兔迎新</title>
+    <url>/post/984.html</url>
+    <content><![CDATA[<p><strong><del>2022年回顧</del></strong> </p>
+<p><strong>疫情</strong>  </p>
+<ul>
+<li>核酸<br>全民免費核酸、收費的混檢、單檢、抗原，出入必檢，天天做，隔日做，幾天已做都成了日常。  </li>
+<li>封控<br>被封控了好多次，短則三五天，長則十數天，數十天。</li>
+</ul>
+<p><strong>女兒上了高中</strong><br>中考陪考，出成績，填志願，皇天不負，女兒如願上了高中。</p>
+<p><strong>家裡新成員</strong><br>七月中旬，一枚靚仔小貓成了家裡一員，藍金漸層，女兒給起名肉肉。從此，我們和寵物診所和用品店建立了聯繫。</p>
+<p><em><strong>2023年展望</strong></em>  </p>
+<p><strong>還清借款</strong><br>這幾年斷斷續續借了20個W，爭取解決。  </p>
+<p><strong>練字</strong><br>硬筆書法要創新，毛筆字不可荒廢。  </p>
+<p><strong>健身</strong><br>楊氏24式簡化太極拳，八段錦，五步拳，做到拳不離手。</p>
 ]]></content>
       <categories>
-        <category>日誌</category>
+        <category>生活</category>
       </categories>
       <tags>
-        <tag>日誌</tag>
-        <tag>心情</tag>
+        <tag>隨筆</tag>
+        <tag>节日</tag>
       </tags>
   </entry>
   <entry>
@@ -1582,30 +1606,6 @@
       </tags>
   </entry>
   <entry>
-    <title>嵗虎辭舊，玉兔迎新</title>
-    <url>/post/984.html</url>
-    <content><![CDATA[<p><strong><del>2022年回顧</del></strong> </p>
-<p><strong>疫情</strong>  </p>
-<ul>
-<li>核酸<br>全民免費核酸、收費的混檢、單檢、抗原，出入必檢，天天做，隔日做，幾天已做都成了日常。  </li>
-<li>封控<br>被封控了好多次，短則三五天，長則十數天，數十天。</li>
-</ul>
-<p><strong>女兒上了高中</strong><br>中考陪考，出成績，填志願，皇天不負，女兒如願上了高中。</p>
-<p><strong>家裡新成員</strong><br>七月中旬，一枚靚仔小貓成了家裡一員，藍金漸層，女兒給起名肉肉。從此，我們和寵物診所和用品店建立了聯繫。</p>
-<p><em><strong>2023年展望</strong></em>  </p>
-<p><strong>還清借款</strong><br>這幾年斷斷續續借了20個W，爭取解決。  </p>
-<p><strong>練字</strong><br>硬筆書法要創新，毛筆字不可荒廢。  </p>
-<p><strong>健身</strong><br>楊氏24式簡化太極拳，八段錦，五步拳，做到拳不離手。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>隨筆</tag>
-        <tag>节日</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>常吃黑木耳好處多</title>
     <url>/post/1078.html</url>
     <content><![CDATA[<p>        黑木耳因為富含多種營養成分，被稱為”素中之葷”。很多飯菜中，它或當主角或當配角，為我們的身體提供營養。  </p>
@@ -1626,6 +1626,19 @@
       </tags>
   </entry>
   <entry>
+    <title>心特累</title>
+    <url>/post/1032.html</url>
+    <content><![CDATA[<p>最近幾天，睡眠總不好，有時白天精神有點恍惚。回到家，閨女說我前額的頭髮變稀了，細思極恐，是不是因為鴨梨山大。急需調整狀態，不然很危險。</p>
+]]></content>
+      <categories>
+        <category>日誌</category>
+      </categories>
+      <tags>
+        <tag>日誌</tag>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>微信分付開通</title>
     <url>/post/993.html</url>
     <content><![CDATA[<p>中午打開微信，看到”我”旁邊有個小紅點，遂點進去，”支付”那有個小紅點，再點進去，發現多了一個”分付”，點擊進入，查看額度，輸入支付密碼，分付開通成功，給的額度大幾千，日利率萬分之四。上網查了一下，分付相當於一個消費貸，和支付寶的花唄不一樣,花唄更像普通的信用卡；分付按日計息，花唄按月結算，不逾期不計息。個人感覺分付不如花唄。</p>
@@ -1639,16 +1652,16 @@
       </tags>
   </entry>
   <entry>
-    <title>心特累</title>
-    <url>/post/1032.html</url>
-    <content><![CDATA[<p>最近幾天，睡眠總不好，有時白天精神有點恍惚。回到家，閨女說我前額的頭髮變稀了，細思極恐，是不是因為鴨梨山大。急需調整狀態，不然很危險。</p>
+    <title>恭祝全球華人中秋節快樂！</title>
+    <url>/post/1050.html</url>
+    <content><![CDATA[<p>        又是一年中秋節，老李在中國西安恭祝全球華人：花好月圓，幸福安康！</p>
 ]]></content>
       <categories>
         <category>日誌</category>
       </categories>
       <tags>
         <tag>日誌</tag>
-        <tag>心情</tag>
+        <tag>節日</tag>
       </tags>
   </entry>
   <entry>
@@ -1676,19 +1689,6 @@
       <tags>
         <tag>日誌</tag>
         <tag>健康</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>恭祝全球華人中秋節快樂！</title>
-    <url>/post/1050.html</url>
-    <content><![CDATA[<p>        又是一年中秋節，老李在中國西安恭祝全球華人：花好月圓，幸福安康！</p>
-]]></content>
-      <categories>
-        <category>日誌</category>
-      </categories>
-      <tags>
-        <tag>日誌</tag>
-        <tag>節日</tag>
       </tags>
   </entry>
   <entry>
@@ -2076,7 +2076,7 @@
     <content><![CDATA[<p>        本站提供國際頂級域名註冊，註冊域名和價格如下：<br>.com  ， .net   ，.org        75元 &#x2F;  年<br>.cc  ，  .me                         150元 &#x2F;  年<br>.info  ， .biz                         95元 &#x2F;  年<br>.name                                  70元 &#x2F;  年<br>.asia                                    100元 &#x2F; 年<br>.tv                                          300元 &#x2F;  年</p>
 <p>說明：<br>1、此域名價格有效期：2010年3月 - 5月；<br>2、價格已最低，謝絕討價還價；<br>3、據悉部分國際頂級域名有漲價勢頭，欲購從速；<br>4、暫不提供國內頂級域名註冊服務。</p>
 <p>提示：<br>1、 域名只支持英文字母(a-z，不區分大小寫)、數字(0-9)以及”-“(英文中連詞符，不能作為作開頭和結尾字符)；<br>2.、不能使用空格及特殊字符(如!、$、&amp;、? 等)；<br>3、域名註冊有特殊要求的，聯繫後告知協商解決。</p>
-<p>聯繫：<br>1、發電子郵件到 <a href="mailto:&#x61;&#100;&#109;&#x69;&#110;&#x40;&#51;&#x35;&#56;&#56;&#x38;&#x2e;&#x6e;&#101;&#x74;">&#x61;&#100;&#109;&#x69;&#110;&#x40;&#51;&#x35;&#56;&#56;&#x38;&#x2e;&#x6e;&#101;&#x74;</a> ，或加QQ  994300024   或加MSN  <a href="mailto:&#108;&#x69;&#x7a;&#x68;&#105;&#x68;&#x75;&#64;&#109;&#x73;&#110;&#x2e;&#99;&#111;&#109;">&#108;&#x69;&#x7a;&#x68;&#105;&#x68;&#x75;&#64;&#109;&#x73;&#110;&#x2e;&#99;&#111;&#109;</a>  ；<br>2、有問題，可聯繫，亦可直接回復，三個工作日內答覆。</p>
+<p>聯繫：<br>1、發電子郵件到 <a href="mailto:&#x61;&#100;&#109;&#x69;&#x6e;&#64;&#51;&#53;&#x38;&#x38;&#56;&#x2e;&#110;&#101;&#116;">&#x61;&#100;&#109;&#x69;&#x6e;&#64;&#51;&#53;&#x38;&#x38;&#56;&#x2e;&#110;&#101;&#116;</a> ，或加QQ  994300024   或加MSN  <a href="mailto:&#x6c;&#x69;&#x7a;&#104;&#105;&#x68;&#x75;&#x40;&#109;&#x73;&#110;&#46;&#99;&#111;&#109;">&#x6c;&#x69;&#x7a;&#104;&#105;&#x68;&#x75;&#x40;&#109;&#x73;&#110;&#46;&#99;&#111;&#109;</a>  ；<br>2、有問題，可聯繫，亦可直接回復，三個工作日內答覆。</p>
 <p>付款：<br>1、聯繫後告知付款方式，方式多樣，即付即開通使用；<br>2、有域名證書，走國內知名域名註冊服務商商接口，拒絕代理；<br>3、域名註冊成功，款項不退。</p>
 ]]></content>
       <categories>
