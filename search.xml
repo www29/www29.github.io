@@ -28,19 +28,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020第一場雪</title>
-    <url>/post/1014.html</url>
-    <content><![CDATA[<p>       入冬以來，霧霾天很多，希望這第一場雪，盡情裝扮原本灰暗的世界。雖然冷，但心情好了許多……</p>
-]]></content>
-      <categories>
-        <category>日誌</category>
-      </categories>
-      <tags>
-        <tag>日記</tag>
-        <tag>見聞</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>35互聯博客 50M免費空間 綁域名 WordPress程序</title>
     <url>/post/1176.html</url>
     <content><![CDATA[<p>35互聯（<a href="http://www.35.com/">http://www.35.com</a>）是國內知名的商務網絡，主要提供域名註冊，主機，服務器等服務。 35互聯也有博客服務，網址是：<a href="http://blog.35.cn/">http://blog.35.cn</a> ，用戶可以自由申請。<br>過去35互聯博客用戶意見大，主要是提供的網站主題過少，界面難看，而且時常打不開。不過經過改進後的35互聯博客利用其資源優勢，大大改進了博客服務。採用全球最好的WordPress博客程序，訪問速度快，主題界面也增加到三百多個，而且提供50M獨立博客空間，允許用戶免費綁定一個域名。<br>本人也申請了一個35互聯的博客，並且綁定了一個本站的二級域名，網址如下：<a href="http://blog.35888.net/">http://blog.35888.net</a> 。雖然目前沒有什麼內容，但是大家可以看看35互聯博客的訪問速度快，用戶管理自己的博客猶如管理自己安裝的WordPress程序，擁有最高權限，這是其他網站博客很難做到的。<br>50M高速博客空間，綁定一個自己的域名，相當於在網上建立了一個屬於自己的小窩。不過域名綁定需要審核，只要在用戶後台填寫域名和備案號，等待審核通過後，就可以生效了。<br>還在發愁沒有好的空間做博客的朋友們可以考慮申請35互聯博客，享受35商務互聯帶來的優質服務。</p>
@@ -54,16 +41,16 @@
       </tags>
   </entry>
   <entry>
-    <title>cloudflare加速</title>
-    <url>/post/1022.html</url>
-    <content><![CDATA[<p>       老李博客開始使用cloudflare加速，並用了RailGun。感謝wzfou.com的支持。</p>
+    <title>2020第一場雪</title>
+    <url>/post/1014.html</url>
+    <content><![CDATA[<p>       入冬以來，霧霾天很多，希望這第一場雪，盡情裝扮原本灰暗的世界。雖然冷，但心情好了許多……</p>
 ]]></content>
       <categories>
-        <category>博客</category>
+        <category>日誌</category>
       </categories>
       <tags>
         <tag>日記</tag>
-        <tag>CDN</tag>
+        <tag>見聞</tag>
       </tags>
   </entry>
   <entry>
@@ -86,6 +73,19 @@
       </tags>
   </entry>
   <entry>
+    <title>cloudflare加速</title>
+    <url>/post/1022.html</url>
+    <content><![CDATA[<p>       老李博客開始使用cloudflare加速，並用了RailGun。感謝wzfou.com的支持。</p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>日記</tag>
+        <tag>CDN</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Evolution Host</title>
     <url>/post/1003.html</url>
     <content><![CDATA[<p>Evolution Host 免費VPS 4個vCPU內核&#x2F;4GB&#x2F;Gbps端口&#x2F;高防DDoS保護。申請:<a href="https://evolution-host.com/free-vps.php">https://evolution-host.com/free-vps.php</a><a href="https://evolution-host.com/free-vps.php"></a></p>
@@ -96,19 +96,6 @@
       <tags>
         <tag>VPS</tag>
         <tag>資源</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Fan Error問題的解決</title>
-    <url>/post/989.html</url>
-    <content><![CDATA[<p>同事的筆記本開機後只顯示Fan Error，而且風扇聲音很大，初步懷疑風扇灰塵過多。動手拆機，卸下風扇，吹掉裡面的大量灰塵。重新安裝好，開機後順利進入系統，問題解決。遺憾的是沒有潤滑劑，風扇聲音還是很大。</p>
-]]></content>
-      <categories>
-        <category>網事</category>
-      </categories>
-      <tags>
-        <tag>日記</tag>
-        <tag>電腦</tag>
       </tags>
   </entry>
   <entry>
@@ -123,6 +110,19 @@
       <tags>
         <tag>Ezypoint網絡調查</tag>
         <tag>兼職</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fan Error問題的解決</title>
+    <url>/post/989.html</url>
+    <content><![CDATA[<p>同事的筆記本開機後只顯示Fan Error，而且風扇聲音很大，初步懷疑風扇灰塵過多。動手拆機，卸下風扇，吹掉裡面的大量灰塵。重新安裝好，開機後順利進入系統，問題解決。遺憾的是沒有潤滑劑，風扇聲音還是很大。</p>
+]]></content>
+      <categories>
+        <category>網事</category>
+      </categories>
+      <tags>
+        <tag>日記</tag>
+        <tag>電腦</tag>
       </tags>
   </entry>
   <entry>
@@ -220,19 +220,6 @@
       </tags>
   </entry>
   <entry>
-    <title>QQ郵箱新增短消息功能</title>
-    <url>/post/1138.html</url>
-    <content><![CDATA[<p>        QQ新增短消息功能。點擊QQ郵箱，在左欄收件箱下面就是短消息。<br>        如果你給某個電子郵件或者您的QQ好友發送了一封電子郵件，你可以立即發送一則短消息給他們，提醒對方接收處理您發送過來的郵件，如果對方的信箱恰好是QQ郵箱，那麼也可以直接給你回復短消息，說明郵件的處理情況。<br>        發送短消息方法：點擊短消息，首先在打開的窗口收件人欄內填寫對方的電子郵件地址，如果對方在你通訊錄裡面，你可以輸入任意字符，就會發現你的通訊錄地址簿展示了出來，隨意選擇即可完成收件人欄的填寫。<br>         其次，填寫內容，內容限制200字，雖然字數不多，也不能發送附件，添加圖片，但是足夠讓你說明郵件的情況了。<br>         最後，點擊發送，一封短消息就直接出現在對方的郵箱了。<br>         QQ短消息功能是很實用的功能，以前有些郵箱讓你用手機短息通知對方接收郵件，現在QQ郵箱讓你不再繁瑣，直接就可以通知對方。</p>
-]]></content>
-      <categories>
-        <category>郵箱</category>
-      </categories>
-      <tags>
-        <tag>QQ郵箱</tag>
-        <tag>郵箱</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>QQ廣播認領守望博客</title>
     <url>/post/1152.html</url>
     <content><![CDATA[<p>        今天登陸QQ郵箱，看到廣播可以認領個人博客，於是迫不及待想嘗試一下。<br>        填寫了我的守望博客地址：<a href="http://35888.net/">http://35888.net</a>，然後要求在上發表一篇博文，要求標題或者內容中含有一下驗證代碼：QQREADERB5C494B1C8CB9457<br>        然後填寫驗證碼，點擊最下面：「已發帖，提交認領申請」，然後等待就可以了。<br>        QQ廣播在郵箱中直接可以使用，而且還可以表示喜歡和評論他人的廣播，交流很方便的。</p>
@@ -246,9 +233,35 @@
       </tags>
   </entry>
   <entry>
+    <title>QQ郵箱新增短消息功能</title>
+    <url>/post/1138.html</url>
+    <content><![CDATA[<p>        QQ新增短消息功能。點擊QQ郵箱，在左欄收件箱下面就是短消息。<br>        如果你給某個電子郵件或者您的QQ好友發送了一封電子郵件，你可以立即發送一則短消息給他們，提醒對方接收處理您發送過來的郵件，如果對方的信箱恰好是QQ郵箱，那麼也可以直接給你回復短消息，說明郵件的處理情況。<br>        發送短消息方法：點擊短消息，首先在打開的窗口收件人欄內填寫對方的電子郵件地址，如果對方在你通訊錄裡面，你可以輸入任意字符，就會發現你的通訊錄地址簿展示了出來，隨意選擇即可完成收件人欄的填寫。<br>         其次，填寫內容，內容限制200字，雖然字數不多，也不能發送附件，添加圖片，但是足夠讓你說明郵件的情況了。<br>         最後，點擊發送，一封短消息就直接出現在對方的郵箱了。<br>         QQ短消息功能是很實用的功能，以前有些郵箱讓你用手機短息通知對方接收郵件，現在QQ郵箱讓你不再繁瑣，直接就可以通知對方。</p>
+]]></content>
+      <categories>
+        <category>郵箱</category>
+      </categories>
+      <tags>
+        <tag>QQ郵箱</tag>
+        <tag>郵箱</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>QQ郵箱每個域名郵箱的成員從30個升級至100個</title>
     <url>/post/1157.html</url>
     <content><![CDATA[<p>        今天打開QQ郵箱，收到來自QQ郵箱管理員的郵件：域名郵箱更新，成員數由30人升級至100人。<br>        <a href="http://35888.net/">守望博客</a>的域名郵箱@35888.net，採用的就是該域名郵箱服務。不過對於我這樣的小站，30也就夠了，升至100人，肯定也是為企業用戶考慮。<br>        原來採用微軟live免費企業郵箱，感覺不爽。雖然可以提供讓用戶自主註冊，但是其郵箱服務不盡人意。後來採用了QQ郵箱，感覺很好，並且每個成員的郵箱可以和該成員的QQ郵箱綁定使用，這樣在使用QQ郵箱的完美服務時也能同時收到來自域名郵箱的郵件，方便實用。<br>        QQ郵箱的服務已經很不錯了，希望大家可以使用QQ郵箱的域名郵箱，只要你有頂級域名，就可以開通域名郵箱，為你和你的企業提供方便快捷的信息服務。</p>
+]]></content>
+      <categories>
+        <category>郵箱</category>
+      </categories>
+      <tags>
+        <tag>QQ郵箱</tag>
+        <tag>郵箱</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>QQ郵箱附件支持壓縮文件在線瀏覽</title>
+    <url>/post/1159.html</url>
+    <content><![CDATA[<p>        QQ郵箱新功能不少。以前支持office文檔和pdf文件的在線瀏覽，這個用途很大，在本機沒有安裝Microsoft Office和pdf瀏覽器的情況下，郵箱用戶可以直接在線瀏覽這些文檔和文件。<br>        這兩天附件中收到一封加壓的文件，文件為.rar形式的，竟然也提供在線瀏覽。使用了一下，還真不錯的功能。可以看到很像解壓後的文件夾，裡面的文件赫然在目，而且每個後面都有打開，預覽等提示。<br>        現在如果你收到諸如.doc，.exl，.ppt，.pdf，.rar，.zip的附件，你可以不必借助任何軟件就可以直接在線瀏覽。這個功能體現出QQ郵箱的服務很為用戶著想。而且對於電腦一知半解的人來說，收到附件，不用再茫然不知如何打開看了，直接點在線瀏覽觀看。<br>        網易郵箱的也支持以上除.rar，.zip格式附件的在線瀏覽。<br>        電腦科技的發展就是讓電腦成為傻瓜機，讓人人會操作，會使用。我想這些就是QQ郵箱不斷精益求精的原因吧！</p>
 ]]></content>
       <categories>
         <category>郵箱</category>
@@ -272,16 +285,16 @@
       </tags>
   </entry>
   <entry>
-    <title>QQ郵箱附件支持壓縮文件在線瀏覽</title>
-    <url>/post/1159.html</url>
-    <content><![CDATA[<p>        QQ郵箱新功能不少。以前支持office文檔和pdf文件的在線瀏覽，這個用途很大，在本機沒有安裝Microsoft Office和pdf瀏覽器的情況下，郵箱用戶可以直接在線瀏覽這些文檔和文件。<br>        這兩天附件中收到一封加壓的文件，文件為.rar形式的，竟然也提供在線瀏覽。使用了一下，還真不錯的功能。可以看到很像解壓後的文件夾，裡面的文件赫然在目，而且每個後面都有打開，預覽等提示。<br>        現在如果你收到諸如.doc，.exl，.ppt，.pdf，.rar，.zip的附件，你可以不必借助任何軟件就可以直接在線瀏覽。這個功能體現出QQ郵箱的服務很為用戶著想。而且對於電腦一知半解的人來說，收到附件，不用再茫然不知如何打開看了，直接點在線瀏覽觀看。<br>        網易郵箱的也支持以上除.rar，.zip格式附件的在線瀏覽。<br>        電腦科技的發展就是讓電腦成為傻瓜機，讓人人會操作，會使用。我想這些就是QQ郵箱不斷精益求精的原因吧！</p>
+    <title>WordPress</title>
+    <url>/post/1006.html</url>
+    <content><![CDATA[<p>沒辦法，就是認可WordPress，所以用它來搭建這個網站。歡迎大家光臨!</p>
 ]]></content>
       <categories>
-        <category>郵箱</category>
+        <category>博客</category>
       </categories>
       <tags>
-        <tag>QQ郵箱</tag>
-        <tag>郵箱</tag>
+        <tag>日記</tag>
+        <tag>站務</tag>
       </tags>
   </entry>
   <entry>
@@ -295,19 +308,6 @@
       <tags>
         <tag>博客</tag>
         <tag>wordpress</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>WordPress</title>
-    <url>/post/1006.html</url>
-    <content><![CDATA[<p>沒辦法，就是認可WordPress，所以用它來搭建這個網站。歡迎大家光臨!</p>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>日記</tag>
-        <tag>站務</tag>
       </tags>
   </entry>
   <entry>
@@ -416,6 +416,19 @@
       </tags>
   </entry>
   <entry>
+    <title>一枚韭菜</title>
+    <url>/post/1012.html</url>
+    <content><![CDATA[<p>今年奇了怪了，一買就跌，一賣就漲。和眾多散戶的命運一樣，為國家做了不少貢獻。</p>
+]]></content>
+      <categories>
+        <category>日誌</category>
+      </categories>
+      <tags>
+        <tag>日記</tag>
+        <tag>財經</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>三類養生茶不宜常喝</title>
     <url>/post/1053.html</url>
     <content><![CDATA[<p>       近年來人們對健康日益關注，養生保健茶逐漸走進百姓生活。如果上火了，咽干嗓子痛，有些人知道馬上泡點菊花、金銀花茶，喝下去苦中有甘，可以有效緩解症狀。然而，要讓養生茶真正起到養生作用，還是要根據具體症狀和體質特點來調配，<br>不宜長年不變地飲用一種茶。下面幾類養生茶不宜常喝。  </p>
@@ -429,19 +442,6 @@
       <tags>
         <tag>日誌</tag>
         <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一枚韭菜</title>
-    <url>/post/1012.html</url>
-    <content><![CDATA[<p>今年奇了怪了，一買就跌，一賣就漲。和眾多散戶的命運一樣，為國家做了不少貢獻。</p>
-]]></content>
-      <categories>
-        <category>日誌</category>
-      </categories>
-      <tags>
-        <tag>日記</tag>
-        <tag>財經</tag>
       </tags>
   </entry>
   <entry>
@@ -505,26 +505,6 @@
       </tags>
   </entry>
   <entry>
-    <title>中國福利彩票雙色球第2011135期中獎疑問</title>
-    <url>/post/1122.html</url>
-    <content><![CDATA[<p>     買這張彩票的牛人共花了16016元，買的是中國福利彩票雙色球第2011135期，採用的是16+1複式玩法。中獎號碼為：紅球12 13 17 20 25 26；藍球12。這位牛人共中得：1注一等獎、4注二等獎、60注三等獎、915注四等獎、5100注五等獎、4872注六等獎，累計獎金達13783846元。<br>     牛人出資購彩的大手筆讓在下望塵莫及，而且運氣也是極好，命中藍號12，更加巧妙地是，好像就知道紅號要從11開始到26結束。  </p>
-<p><img src="http://ww3.sinaimg.cn/mw600/437fdadejw1dne1wpm3s1j.jpg"><br>     <a href="http://ww3.sinaimg.cn/large/437fdadejw1dne1wpm3s1j.jpg">查看大圖</a><br>     ​但是紙裡包不住火，確實讓我發現了這張彩票的諸多端倪，譬如：這張彩票是樂和彩（<a href="http://www.lehecai.com/">www.lehecai.com</a>）上一位tria****的會員​中出的，既然是一張以電子信息投注的彩票，這張彩票實體圖樣是哪裡來的？而且最下面還是某某福利彩票發行中心承銷，樂和彩是福利彩票發行中心嗎？那麼這張彩票出自哪個省的福彩發行中心呢？請看中國福利彩票雙色球2011135期開獎傳真  </p>
-<p><strong>​</strong><img src="http://ww4.sinaimg.cn/mw600/437fdadejw1dne31tixanj.jpg">  </p>
-<p><a href="http://ww4.sinaimg.cn/large/437fdadejw1dne31tixanj.jpg">查看大圖</a>  </p>
-<p>      再看，中國雙色球第2011135期一等獎出處：  </p>
-<p><img src="http://ww2.sinaimg.cn/mw600/437fdadejw1dne372ws6qj.jpg">  </p>
-<p><a href="http://ww2.sinaimg.cn/large/437fdadejw1dne372ws6qj.jpg">查看大圖</a></p>
-<p>        這張圖片明確告訴你：這張複式16+1彩票是湖南省岳陽市湘陰縣精密花園第43102025號投注站中出的。<br>     請問：樂和彩，你們是和福彩中心合作的，還是和一個小投注站合作的，莫非這張彩票從你們網站會員處中得，網站是這家投注小站建立的嗎？我搞不懂。<br>     樂和彩網站這種掩耳盜鈴，自欺欺人的做法，著實讓我感到厭惡，而且樂和彩是百度合作平台，讓人對百度也難免產生懷疑。<br>     再次申明，以上只是本人的一點拙見，疑問之處或許本人水平有限，胡亂猜疑而已，不能作為本人對樂和彩網站以及網絡購彩所持觀點和看法。  同時也謝絕對文章內容的真實性和可靠性作答覆，僅作為談資罷了。<br>     現在很多網站都開展了網絡銷售彩票的業務，甚至門戶網站也在分這杯羹。但是，一旦中大獎，能否能拿到獎金，這任然是一個需要深思的問題。對於那些不知名的小網站，中大獎不一定會返獎；而對於那些大網站甚至門戶網站而言，中獎一般都可以返獎，因為畢竟對於網站購彩的數以萬計的用戶而言，中獎者畢竟是少數，偶爾中個大獎也會配牌出血。<br>     老李溫馨提示：網絡購彩需謹慎。如果實在不便要網絡購彩，還是首選門戶網站。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>轉文</tag>
-        <tag>轉載</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>中國人喝茶的禮儀與講究</title>
     <url>/post/1095.html</url>
     <content><![CDATA[<p>       中國人好以茶會客，看似簡單的一杯茶其中暗含了許多學問，除了泡茶講究，斟茶、品茶、添茶都有講究。你不可不知道的閩南茶語，分享給大家，學學茶禮儀，用最純正的傳統對待一杯茶。  </p>
@@ -545,6 +525,26 @@
       <tags>
         <tag>日記</tag>
         <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>中國福利彩票雙色球第2011135期中獎疑問</title>
+    <url>/post/1122.html</url>
+    <content><![CDATA[<p>     買這張彩票的牛人共花了16016元，買的是中國福利彩票雙色球第2011135期，採用的是16+1複式玩法。中獎號碼為：紅球12 13 17 20 25 26；藍球12。這位牛人共中得：1注一等獎、4注二等獎、60注三等獎、915注四等獎、5100注五等獎、4872注六等獎，累計獎金達13783846元。<br>     牛人出資購彩的大手筆讓在下望塵莫及，而且運氣也是極好，命中藍號12，更加巧妙地是，好像就知道紅號要從11開始到26結束。  </p>
+<p><img src="http://ww3.sinaimg.cn/mw600/437fdadejw1dne1wpm3s1j.jpg"><br>     <a href="http://ww3.sinaimg.cn/large/437fdadejw1dne1wpm3s1j.jpg">查看大圖</a><br>     ​但是紙裡包不住火，確實讓我發現了這張彩票的諸多端倪，譬如：這張彩票是樂和彩（<a href="http://www.lehecai.com/">www.lehecai.com</a>）上一位tria****的會員​中出的，既然是一張以電子信息投注的彩票，這張彩票實體圖樣是哪裡來的？而且最下面還是某某福利彩票發行中心承銷，樂和彩是福利彩票發行中心嗎？那麼這張彩票出自哪個省的福彩發行中心呢？請看中國福利彩票雙色球2011135期開獎傳真  </p>
+<p><strong>​</strong><img src="http://ww4.sinaimg.cn/mw600/437fdadejw1dne31tixanj.jpg">  </p>
+<p><a href="http://ww4.sinaimg.cn/large/437fdadejw1dne31tixanj.jpg">查看大圖</a>  </p>
+<p>      再看，中國雙色球第2011135期一等獎出處：  </p>
+<p><img src="http://ww2.sinaimg.cn/mw600/437fdadejw1dne372ws6qj.jpg">  </p>
+<p><a href="http://ww2.sinaimg.cn/large/437fdadejw1dne372ws6qj.jpg">查看大圖</a></p>
+<p>        這張圖片明確告訴你：這張複式16+1彩票是湖南省岳陽市湘陰縣精密花園第43102025號投注站中出的。<br>     請問：樂和彩，你們是和福彩中心合作的，還是和一個小投注站合作的，莫非這張彩票從你們網站會員處中得，網站是這家投注小站建立的嗎？我搞不懂。<br>     樂和彩網站這種掩耳盜鈴，自欺欺人的做法，著實讓我感到厭惡，而且樂和彩是百度合作平台，讓人對百度也難免產生懷疑。<br>     再次申明，以上只是本人的一點拙見，疑問之處或許本人水平有限，胡亂猜疑而已，不能作為本人對樂和彩網站以及網絡購彩所持觀點和看法。  同時也謝絕對文章內容的真實性和可靠性作答覆，僅作為談資罷了。<br>     現在很多網站都開展了網絡銷售彩票的業務，甚至門戶網站也在分這杯羹。但是，一旦中大獎，能否能拿到獎金，這任然是一個需要深思的問題。對於那些不知名的小網站，中大獎不一定會返獎；而對於那些大網站甚至門戶網站而言，中獎一般都可以返獎，因為畢竟對於網站購彩的數以萬計的用戶而言，中獎者畢竟是少數，偶爾中個大獎也會配牌出血。<br>     老李溫馨提示：網絡購彩需謹慎。如果實在不便要網絡購彩，還是首選門戶網站。</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>轉文</tag>
+        <tag>轉載</tag>
       </tags>
   </entry>
   <entry>
@@ -1065,7 +1065,7 @@
   <entry>
     <title>出售域名：blogpost.cn和wolrd.cn</title>
     <url>/post/1051.html</url>
-    <content><![CDATA[<p>域名：blogpost.cn和wolrd.cn出手了 blogpost.cn域名含義：blog為博客，post為文章或帖子。blog post為「博客文章」 wolrd.cn域名含義：world是世界的意思，拼寫常常誤寫為wolrd，可以帶來巨大訪問量 聯繫請發郵件到：<a href="mailto:&#119;&#105;&#115;&#100;&#111;&#109;&#116;&#x69;&#103;&#101;&#x72;&#64;&#x71;&#x71;&#x2e;&#x63;&#111;&#109;">&#119;&#105;&#115;&#100;&#111;&#109;&#116;&#x69;&#103;&#101;&#x72;&#64;&#x71;&#x71;&#x2e;&#x63;&#111;&#109;</a></p>
+    <content><![CDATA[<p>域名：blogpost.cn和wolrd.cn出手了 blogpost.cn域名含義：blog為博客，post為文章或帖子。blog post為「博客文章」 wolrd.cn域名含義：world是世界的意思，拼寫常常誤寫為wolrd，可以帶來巨大訪問量 聯繫請發郵件到：<a href="mailto:&#x77;&#105;&#115;&#100;&#x6f;&#x6d;&#116;&#105;&#103;&#x65;&#114;&#x40;&#x71;&#x71;&#x2e;&#99;&#x6f;&#x6d;">&#x77;&#105;&#115;&#100;&#x6f;&#x6d;&#116;&#105;&#103;&#x65;&#114;&#x40;&#x71;&#x71;&#x2e;&#99;&#x6f;&#x6d;</a></p>
 ]]></content>
       <categories>
         <category>域名</category>
@@ -2076,7 +2076,7 @@
     <content><![CDATA[<p>        本站提供國際頂級域名註冊，註冊域名和價格如下：<br>.com  ， .net   ，.org        75元 &#x2F;  年<br>.cc  ，  .me                         150元 &#x2F;  年<br>.info  ， .biz                         95元 &#x2F;  年<br>.name                                  70元 &#x2F;  年<br>.asia                                    100元 &#x2F; 年<br>.tv                                          300元 &#x2F;  年</p>
 <p>說明：<br>1、此域名價格有效期：2010年3月 - 5月；<br>2、價格已最低，謝絕討價還價；<br>3、據悉部分國際頂級域名有漲價勢頭，欲購從速；<br>4、暫不提供國內頂級域名註冊服務。</p>
 <p>提示：<br>1、 域名只支持英文字母(a-z，不區分大小寫)、數字(0-9)以及”-“(英文中連詞符，不能作為作開頭和結尾字符)；<br>2.、不能使用空格及特殊字符(如!、$、&amp;、? 等)；<br>3、域名註冊有特殊要求的，聯繫後告知協商解決。</p>
-<p>聯繫：<br>1、發電子郵件到 <a href="mailto:&#97;&#100;&#x6d;&#105;&#x6e;&#64;&#x33;&#53;&#56;&#x38;&#x38;&#46;&#110;&#x65;&#116;">&#97;&#100;&#x6d;&#105;&#x6e;&#64;&#x33;&#53;&#56;&#x38;&#x38;&#46;&#110;&#x65;&#116;</a> ，或加QQ  994300024   或加MSN  <a href="mailto:&#x6c;&#105;&#x7a;&#104;&#105;&#104;&#x75;&#64;&#109;&#x73;&#x6e;&#x2e;&#x63;&#x6f;&#109;">&#x6c;&#105;&#x7a;&#104;&#105;&#104;&#x75;&#64;&#109;&#x73;&#x6e;&#x2e;&#x63;&#x6f;&#109;</a>  ；<br>2、有問題，可聯繫，亦可直接回復，三個工作日內答覆。</p>
+<p>聯繫：<br>1、發電子郵件到 <a href="mailto:&#x61;&#x64;&#x6d;&#x69;&#110;&#x40;&#51;&#x35;&#56;&#x38;&#x38;&#x2e;&#x6e;&#101;&#x74;">&#x61;&#x64;&#x6d;&#x69;&#110;&#x40;&#51;&#x35;&#56;&#x38;&#x38;&#x2e;&#x6e;&#101;&#x74;</a> ，或加QQ  994300024   或加MSN  <a href="mailto:&#x6c;&#105;&#122;&#104;&#105;&#104;&#117;&#x40;&#x6d;&#115;&#110;&#x2e;&#99;&#111;&#x6d;">&#x6c;&#105;&#122;&#104;&#105;&#104;&#117;&#x40;&#x6d;&#115;&#110;&#x2e;&#99;&#111;&#x6d;</a>  ；<br>2、有問題，可聯繫，亦可直接回復，三個工作日內答覆。</p>
 <p>付款：<br>1、聯繫後告知付款方式，方式多樣，即付即開通使用；<br>2、有域名證書，走國內知名域名註冊服務商商接口，拒絕代理；<br>3、域名註冊成功，款項不退。</p>
 ]]></content>
       <categories>
