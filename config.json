@@ -19,9 +19,10 @@
 "nightTheme":"dark_colorblind",
 "urlMode":"pinyin",
 "style":"",
-"script":"",
+"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+
 "head":"",
-"allHead":"",
+"allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
 "indexStyle":"",
 "indexScript":"",
 "showPostSource":1,
