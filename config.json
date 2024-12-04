@@ -8,7 +8,7 @@
 "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
 "email":"wisdomtiger@qq.com",
 "onePageListNum":15,
-"singlePage":["about", "link", "link"],
+"singlePage":["about", "link", "shuoshuo"],
 "iconList":{"music":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"},
 "commentLabelColor":"#006b75",
 "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
