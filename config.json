@@ -19,7 +19,6 @@
 "nightTheme":"dark_colorblind",
 "urlMode":"pinyin",
 "style":"",
-"script":"<script>document.getElementById('cmButton').click();</script>",
 "script":"<script src='https://fastly.jsdelivr.net/gh/www29/www29.github.io/plugins/GmeekTOC.js'></script><script src='https://fastly.jsdelivr.net/gh/www29/www29.github.io/plugins/lightbox.js'></script>",
 "head":"",
 "allHead":"<script src='https://fastly.jsdelivr.net/gh/www29/www29.github.io/plugins/GmeekVercount.js'></script>",
